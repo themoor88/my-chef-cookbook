@@ -1,0 +1,7 @@
+name 'my-first-chef-configuration'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures my-first-chef-configuration'
+long_description 'Installs/Configures my-first-chef-configuration'
+version '0.1.0'
